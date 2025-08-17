@@ -1,10 +1,10 @@
-Category,Model,Qty,Price,Store,URL
-Case,AEROCOOL FALCON-A-BK-V1,1,23000 CRC,CyberTeam,https://cyberteamcr.com/producto/gabinete-aerocool-falcon-a-bk-v1/
-Motherboard,TBD,1,TBD,TBD,TBD
-CPU,TBD,1,TBD,TBD,TBD
-RAM,TBD,2,TBD,TBD,TBD
-Storage,TBD,1,TBD,TBD,TBD
-PSU,TBD,1,TBD,TBD,TBD
-Cooling,TBD,1,TBD,TBD,TBD
-Cables/Adapters,TBD,TBD,TBD,TBD,TBD
-GPU,Boetec Nvidia GeForce GT210 1GB,1,12000 CRC,ExtremeTech,https://extremetechcr.com/tienda/componentes/15754-boetec-nvidia-geforce-gt210-1gb.html
+Category,Model,Qty,Price,Store,PurchasedDate(YYYY-MM-DD),URL
+Case,AEROCOOL FALCON-A-BK-V1,1,23000 CRC,CyberTeam,2025-08-16,https://cyberteamcr.com/producto/gabinete-aerocool-falcon-a-bk-v1/
+Motherboard,TBD,1,TBD,TBD,TBD,
+CPU,TBD,1,TBD,TBD,TBD,
+RAM,TBD,2,TBD,TBD,TBD,
+Storage,TBD,1,TBD,TBD,TBD,
+PSU,TBD,1,TBD,TBD,TBD,
+Cooling,TBD,1,TBD,TBD,TBD,
+Cables/Adapters,TBD,TBD,TBD,TBD,TBD,
+GPU,Boetec Nvidia GeForce GT210 1GB,1,12000 CRC,ExtremeTech,2025-08-16,https://extremetechcr.com/tienda/componentes/15754-boetec-nvidia-geforce-gt210-1gb.html
