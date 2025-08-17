@@ -1,7 +1,7 @@
 # Hardware — Detalle y criterios
 
 ## Lista (resumen)
-- Case:
+- Case: AEROCOOL FALCON-A-BK-V1
 - Motherboard:
 - CPU:
 - RAM:
@@ -9,6 +9,7 @@
 - PSU:
 - Enfriamiento:
 - Accesorios (cables, adaptadores, etc.):
+- GPU: Boetec Nvidia GeForce GT210 1GB
 
 
 ## Criterios de selección
@@ -19,5 +20,8 @@
 - **Costo vs. desempeño** (priorizando estabilidad).
 
 ## Notas
-- Incluya enlaces de compra y garantía.
-- Documente modelos exactos para reproducibilidad.
+- Case adquirido en **CyberTeam** el 2025-08-16.  
+  [Link al producto](https://cyberteamcr.com/producto/gabinete-aerocool-falcon-a-bk-v1/)  
+- GPU adquirida en **ExtremeTech** el 2025-08-16.  
+  [Link al producto](https://extremetechcr.com/tienda/componentes/15754-boetec-nvidia-geforce-gt210-1gb.html)  
+- El resto de los componentes están pendientes de compra.
